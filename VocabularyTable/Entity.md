@@ -1,5 +1,0 @@
-
-# Entity
-
-| 汉语 | にほんご | 한국어 | Tiếng Việt | ภาษาไทย | English | Español | Português | Nederlands | Italiano | ελληνικά | Français | Deutsch | Русский язык | Latīna | Esperanto |
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
