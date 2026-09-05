@@ -9,10 +9,11 @@
   <br><br>
 </div>
 
-
+| Name | Age | Nationality | Discord | QQ | E-Mail |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| SheenLuna | 17 | 🇨🇳 China | #sheenluna | 3169331596 | 3169331596@qq.com |
 
 <p align="center"> 
-  <i><b>![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SheenLuna.SheenLuna)</b></i><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"  alt=""/><br>
   <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg"  alt=""/>
 </p>
