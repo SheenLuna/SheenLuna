@@ -9,9 +9,10 @@
   <br><br>
 </div>
 
-| Name | Age | Nationality | Discord | QQ | E-Mail |
-| ----- | ----- | ----- | ----- | ----- | ----- |
-| SheenLuna | 17 | 🇨🇳 China | #sheenluna | 3169331596 | 3169331596@qq.com |
+## Basic Details
+| Name | Age | Nationality | Discord | QQ | E-Mail | BiliBili |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| SheenLuna | 17 | 🇨🇳 China | #sheenluna | 3169331596 | 3169331596@qq.com | SheenLuna |
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"  alt=""/><br>
