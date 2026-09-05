@@ -42,6 +42,8 @@
 
 </details>
 
+<!--
+
 <details>
 <summary>Tech Stack</summary>
 
@@ -85,6 +87,8 @@
 > (1%) "Metaphysics" 4D Stereographic Physics-Sound Synthesis Engine
 
 </details>
+
+-->
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"  alt=""/><br>
