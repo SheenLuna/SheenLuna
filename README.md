@@ -12,7 +12,7 @@
 
 
 <p align="center"> 
-  <i><b>Profile Visitor Count...</b></i><br>
+  <i><b>![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=你的用户名.你的用户名)</b></i><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"  alt=""/><br>
   <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg"  alt=""/>
 </p>
