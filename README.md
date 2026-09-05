@@ -38,7 +38,7 @@
 <details>
 <summary>Political Stance</summary>
 
->
+> I support transgender and homosexual communities, care about the issues of grassroots workers, and adhere to a local Chinese left-wing egalitarian stance.
 
 </details>
 
