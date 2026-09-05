@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00D6FF,100:00AAFF" width="100%">
+
 <div align="center">
 
   <a href="https://git.io/typing-svg">
@@ -6,3 +8,9 @@
 
   <br><br>
 </div>
+
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"  alt=""/><br>
+  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg"  alt=""/>
+</p>
