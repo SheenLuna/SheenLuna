@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00D6FF,100:00AAFF" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:F600FF,100:00BBFF" width="100%">
 
 <div align="center">
 
@@ -9,10 +9,38 @@
   <br><br>
 </div>
 
-## Basic Details
-| Name | Age | Nationality | Discord | QQ | E-Mail | BiliBili |
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| SheenLuna | 17 | 🇨🇳 China | #sheenluna | 3169331596 | 3169331596@qq.com | SheenLuna |
+<details>
+<summary>Letter of Introduction</summary>
+  
+> Hello! I am SheenLuna. My Chinese name can be written as XuYue, though I don't use my Chinese name very often. I am seventeen years old and a Chinese citizen. I am a cisgender gay man with a panromantic orientation. The sex I was assigned at birth is biologically standard male, and my gender identity is male. Being a cisgender man allows me to live normally and comfortably in society. However, my gender expression is fluid. My romantic orientation is panromantic: I can appreciate any form of romance as long as it is pure love between two people. The only things I cannot accept are love triangles and cuckolding. My sexual orientation is homosexual. I once felt deeply ashamed of my sexual orientation because of the culturally conservative education I received, and I tried to correct it. Now I openly accept my identity as a gay man. I like boys, and I can only be in a romantic relationship with someone of the same sex.
+>
+> I have worked on multiple sites on Fandom Wiki and Miraheze Wiki, where I have held positions such as bureaucrat, administrator, and moderator, so I have some experience in wiki site management. I have also independently established and managed a pure survival Minecraft cross-play server, so I have some experience in Minecraft server operation, deployment, and game management.
+>
+> I am proficient in English and use it as my second language, while Chinese is my native language. I can communicate fluently in both Chinese and English, and I am currently learning Japanese and French.
+>
+> I am interested in nuclear-themed art, painting, music, worldbuilding, literary theory, linguistics, philosophy, and astronomy. I am currently learning vehicle driving, electrical work, and air conditioning installation, and I plan to make these my main career in the future.
+>
+> Thank you very much for taking the time to read this!
+
+</details>
+
+<details>
+<summary>National Context</summary>
+
+> I come from China. I was born on this ancient land with a civilization that has accumulated over five thousand years of history. I am a descendant of the Yan and Huang Emperors, and I belong to the yellow race of East Asia.
+>
+> A civilization of thousands of years is like a great river that flows without end. When the word "China" appears before my eyes, I cannot help but ask myself: What is China? Is it the motherland that occupies a vast stretch of land on the map of East Asia? Or is it the dense text recorded in history books? Perhaps we should not, as nationalists and statists do, narrowly equate the so-called motherland and nation with bloodlines and borders. Rather, China is more a continuation of spirit and a resonance of culture. When we see fellow countrymen who speak fluent Chinese just like us, when we can smoothly communicate using the subcultural slang that only young Chinese people understand, when we live our daily lives according to particular traditional customs and habits—that is the real China. The real China has never been about fighter jets or cannons, nor aircraft carriers. The real China cannot be defined by any single dynasty. The real China is the cultural crystallization accumulated through the shared lives of the people on this land, and it is also one of the cornerstones of pioneering world culture.
+>
+> Our China possesses a unique ancient charm that stood alongside ancient Greece and Rome during the Axial Age. It has exquisite porcelain of varied forms and brilliant colors, world-renowned culinary culture, magnificent silk garments, profound literary theory, and a philosophy that emphasizes the great way of heaven and earth. Although there are also cultural dregs such as Confucianism and fortune-telling, it remains an indispensable cornerstone of world culture.
+
+</details>
+
+<details>
+<summary>Political Stance</summary>
+
+>
+
+</details>
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"  alt=""/><br>
