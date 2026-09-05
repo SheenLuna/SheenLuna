@@ -42,6 +42,35 @@
 
 </details>
 
+<details>
+<summary>Tech Stack</summary>
+
+> Actually, I am not a so-called professional. I am just an amateur, so my mathematical ability and programming skills are far below those of professional technical personnel.
+> ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+> ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+> ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+> ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+> ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+> ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</details>
+
+<details>
+<summary>Ongoing Projects</summary>
+
+> (10%) CSV Babel vocabulary comparison table in 21 languages
+> (5%) Personal Article Collection
+> (1%) A Collection of Mathematical Modeling and Algorithms
+> (1%) Personal Website Development
+> (5%) Roguelike-style Games
+> (0%) Galgames
+> (3%) AI Agents and Prompt Engineering
+> (0%) Global Culture & Historical Records Wiki Map Browser
+> (1%) "Metaphysics" 4D Stereographic Physics-Sound Synthesis Engine
+
+</details>
+
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"  alt=""/><br>
   <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg"  alt=""/>
